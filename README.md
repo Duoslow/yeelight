@@ -1,13 +1,13 @@
 # Yeelight Controller
 Controlling a yeelight color bulb
 
-##Installation
+## Installation
 ```python
 pip install -r requirements.txt
 ```
 You need to enable [LAN CONTROL](https://www.yeelight.com/faqs/lan_control)
 
-##TODO
+## TODO
 - [x] Keyboard hotkeys(Shortcuts)
 - [x] Brightness Control
 - [x] Change Color
